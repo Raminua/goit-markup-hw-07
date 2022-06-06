@@ -8,6 +8,8 @@
 
 }
 
+
+
 /* BODY */
 body {
     font-family: 'Roboto', sans-serif;
@@ -309,6 +311,13 @@ header .container {
     margin: 0;
     padding: 0;
 
+}
+
+.modal__form--pos {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    margin-bottom: 10px;
 }
 
 .modal-form {
