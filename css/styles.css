@@ -313,7 +313,8 @@ header .container {
 
 }
 
-.modal__form--pos {
+.modal__form--pos,
+.modal__policy {
     display: flex;
     position: relative;
     flex-direction: column;
